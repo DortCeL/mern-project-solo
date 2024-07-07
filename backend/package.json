@@ -8,6 +8,9 @@
     "start": "node index.js",
     "vercel-start": "node index.js"
   },
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
